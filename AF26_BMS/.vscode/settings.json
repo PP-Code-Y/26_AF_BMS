@@ -1,0 +1,9 @@
+{
+    "clangd.arguments": [
+        "--query-driver=/usr/bin/arm-none-eabi-*",
+        "--compile-commands-dir=\"compile_commands.json\""
+    ],
+    "files.associations": {
+        "os-user.h": "c"
+    }
+}
